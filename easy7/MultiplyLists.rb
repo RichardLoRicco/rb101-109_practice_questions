@@ -30,4 +30,4 @@ end
 
 
 # Test Cases
-p multiply_list([3, 5, 7], [9, 10, 11]) == [27, 50, 77]
+p multiply_list([3, 5, 7], [9, 10, 11]) == [27, 50, 77]ß
